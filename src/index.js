@@ -38,13 +38,6 @@ const player5 = {
     PONTOS: 0,
 };
 
-const player6 = {
-    NOME: "YOSHI",
-    VELOCIDADE: 2,
-    MANOBRABILIDADE: 4,
-    PODER: 3,
-    PONTOS: 0,
-};
 
 /*function escolha1(){
     var escolha1 = prompt("Escolha um personagem;\n1 - ")
